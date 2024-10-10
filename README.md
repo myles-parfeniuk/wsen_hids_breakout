@@ -17,7 +17,7 @@ This repo contains all the schematic and layout files in the form of a KiCad pro
 # Operating Voltages
 | Pin | Min.| Max. |
 |----------|----------|----------|
-| Vdd    | 1.08  | 3.6   |
+| 3v3    | 1.08  | 3.6   |
 | SCL/SDA    | -0.3  | 3.9  |
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
