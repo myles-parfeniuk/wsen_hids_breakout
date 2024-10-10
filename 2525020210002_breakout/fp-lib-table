@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BiltongBoardSensorExpansion")(type "KiCad")(uri "${KIPRJMOD}/2525020210002_breakout.pretty")(options "")(descr ""))
+)
