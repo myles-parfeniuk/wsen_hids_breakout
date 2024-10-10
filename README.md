@@ -32,6 +32,7 @@ This repo contains all the schematic and layout files in the form of a KiCad pro
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Contact
-Myles Parfeniuk - myles.parfenyuk@gmail.com
+Myles Parfeniuk - myles.parfenyuk@gmail.com  
+
 Project Link: [myles-parfeniuk/wsen_hids_breakout](myles-parfeniuk/wsen_hids_breakout)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
