@@ -1,4 +1,4 @@
-(footprint "sig_sm_screen_10x11.5mm" (version 20221018) (generator pcbnew)
+(footprint "sig_fc_10x11.5mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
@@ -19,7 +19,7 @@
       (xy -0.9 1.19)
     )
 
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp bf976e54-f357-4340-9dc5-e470be1d7942))
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp bf976e54-f357-4340-9dc5-e470be1d7942))
   (fp_poly
     (pts
       (xy -0.8 0.96)
@@ -32,7 +32,7 @@
       (xy -0.88 1.17)
     )
 
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp c1d67915-90f4-4436-a341-e4df408f5df8))
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp c1d67915-90f4-4436-a341-e4df408f5df8))
   (fp_poly
     (pts
       (xy -0.08 1.69)
@@ -47,7 +47,7 @@
       (xy 0.06 1.83)
     )
 
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp 01f29bc4-2537-48d8-8641-82a1c2db60f0))
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 01f29bc4-2537-48d8-8641-82a1c2db60f0))
   (fp_poly
     (pts
       (xy -0.964174 2.365883)
@@ -63,7 +63,7 @@
       (xy -1.04 2.19)
     )
 
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp edf377d0-fb66-41f2-a596-df80243eee9f))
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp edf377d0-fb66-41f2-a596-df80243eee9f))
   (fp_poly
     (pts
       (xy 1.694886 1.473978)
@@ -80,5 +80,5 @@
       (xy 1.615339 1.442368)
     )
 
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp 536b05bc-0a8a-4658-904e-a48dedee067d))
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 536b05bc-0a8a-4658-904e-a48dedee067d))
 )

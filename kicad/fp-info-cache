@@ -1,4 +1,4 @@
-21772701941048300
+21776159147410556
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -328,6 +328,20 @@ Undefined or Miscellaneous
 0
 4
 4
+BiltongBoardSensorExpansion
+pcbway_logo
+
+
+0
+0
+0
+BiltongBoardSensorExpansion
+sig_fc_10x11.5mm
+
+
+0
+0
+0
 BiltongBoardSensorExpansion
 sig_silks_screen
 
