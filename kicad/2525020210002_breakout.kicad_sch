@@ -737,7 +737,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "R1") (unit 1)
         )
@@ -765,7 +765,7 @@
     (pin "3" (uuid 8346cf33-7f8c-4d13-86db-31c5381e706a))
     (pin "4" (uuid 2ecf7753-4d76-4e9b-8012-e555c447a4d3))
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "J1") (unit 1)
         )
@@ -795,7 +795,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR01") (unit 1)
         )
@@ -825,7 +825,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR04") (unit 1)
         )
@@ -853,7 +853,7 @@
     (pin "3" (uuid f9a58ac7-bb4b-421d-b2e4-1b0c67ada157))
     (pin "4" (uuid 016b7262-b7cd-4201-8fa4-052a8ba1e2ca))
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "J2") (unit 1)
         )
@@ -883,7 +883,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR07") (unit 1)
         )
@@ -897,7 +897,7 @@
     (property "Reference" "H4" (at 264.16 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 264.16 138.43 0)
+    (property "Value" "MountingHole M3" (at 264.16 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (at 261.62 137.16 0)
@@ -907,7 +907,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "H4") (unit 1)
         )
@@ -933,7 +933,7 @@
     (pin "1" (uuid 8b198909-89a8-4d99-adf7-f8d1ef09c65b))
     (pin "2" (uuid 3d6be249-98c4-4350-8654-4ebc03239e4a))
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "D1") (unit 1)
         )
@@ -963,7 +963,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR03") (unit 1)
         )
@@ -993,7 +993,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR012") (unit 1)
         )
@@ -1023,7 +1023,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR09") (unit 1)
         )
@@ -1057,7 +1057,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "R2") (unit 1)
         )
@@ -1087,7 +1087,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR02") (unit 1)
         )
@@ -1118,7 +1118,7 @@
           (reference "C1") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "C1") (unit 1)
         )
@@ -1126,14 +1126,14 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 213.36 137.16 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 213.36 137.16 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98c685f9-a4d3-49b2-8d12-98ee2a453d03)
-    (property "Reference" "H2" (at 215.9 135.89 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "H2" (at 215.9 135.89 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "MountingHole" (at 215.9 138.43 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Value" "MountingHole M3" (at 215.9 138.43 90)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (at 213.36 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1142,7 +1142,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "H2") (unit 1)
         )
@@ -1170,7 +1170,7 @@
     (pin "3" (uuid 56f90230-39e5-445c-bb74-6f518baa6f5b))
     (pin "4" (uuid a9b046fa-71b8-41dd-9114-aa53cef778d1))
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "J3") (unit 1)
         )
@@ -1200,7 +1200,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR010") (unit 1)
         )
@@ -1209,12 +1209,12 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 238.76 137.16 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c214ff7d-ed6f-409b-8207-25b5c90f9ddc)
     (property "Reference" "H3" (at 241.3 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 241.3 138.43 0)
+    (property "Value" "MountingHole M3" (at 241.3 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (at 238.76 137.16 0)
@@ -1224,7 +1224,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "H3") (unit 1)
         )
@@ -1254,7 +1254,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR05") (unit 1)
         )
@@ -1268,7 +1268,7 @@
     (property "Reference" "H1" (at 191.77 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (at 191.77 138.43 0)
+    (property "Value" "MountingHole M3" (at 191.77 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "MountingHole:MountingHole_3.2mm_M3" (at 189.23 137.16 0)
@@ -1278,7 +1278,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "H1") (unit 1)
         )
@@ -1308,7 +1308,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR011") (unit 1)
         )
@@ -1342,7 +1342,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "R3") (unit 1)
         )
@@ -1372,7 +1372,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR06") (unit 1)
         )
@@ -1415,7 +1415,7 @@
     (pin "3" (uuid fa474c65-a45f-4439-ab8b-78b43d5a269d))
     (pin "4" (uuid 7108fc87-8e08-4a05-ae97-06842d74d714))
     (instances
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "U1") (unit 1)
         )
@@ -1445,7 +1445,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "BiltongBoardSensorExpansion"
+      (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
           (reference "#PWR08") (unit 1)
         )
