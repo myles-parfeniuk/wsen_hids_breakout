@@ -17,7 +17,7 @@ This repo contains all the schematic and layout files in the form of a KiCad pro
 
 # PCBWay Sponsorship
 Special thanks to PCBWay for sponsoring this project and providing access to their excellent service.  
-PCBWay supports the DIY and open source community as well as students to a large degree.  
+PCBWay supports the DIY and open source community as well as students with sponsorships and contests frequently.   
 Show them some love and consider having your next project fabricated by them: 
 
 
