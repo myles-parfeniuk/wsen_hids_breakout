@@ -6,7 +6,7 @@
 <li><a href="#pcbway-sponsorship">PCBWay Sponsorship</a></li>
 <li><a href="#gerber-files">Gerber Files</a></li>
 <li><a href="#pcb-renders">PCB Renders</a></li>
-<li><a href="#schematic">Schematic</a></li>
+<li><a href="#schematic-and-layout">Schematic and Layout</a></li>
 <li><a href="#operating-voltages">Operating Voltages</a></li>
 <li><a href="#contact">Contact</a></li>
 </ol>
@@ -39,8 +39,9 @@ These files were generated according to PCBWay's desired settings, thus, they ca
 ![image](back_board.png)  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Schematic
+# Schematic and Layout
 ![image](schematic.png)  
+![image](layout.png) 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Operating Voltages
