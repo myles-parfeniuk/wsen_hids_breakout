@@ -4,6 +4,7 @@
 <ol>
 <li><a href="#about">About</a></li>
 <li><a href="#pcbway-sponsorship">PCBWay Sponsorship</a></li>
+<li><a href="#gerber-files">Gerber Files</a></li>
 <li><a href="#pcb-renders">PCB Renders</a></li>
 <li><a href="#schematic">Schematic</a></li>
 <li><a href="#operating-voltages">Operating Voltages</a></li>
@@ -11,7 +12,7 @@
 </ol>
 
 # About
-Breakout board for [Würth Elektronik 2525020210002](https://www.we-online.com/en/components/products/WSEN-HIDS) humidity w/ integrated temperature sensor IC.   
+Breakout board for [Würth Elektronik 2525020210002](https://www.we-online.com/en/components/products/WSEN-HIDS) I2C humidity w/ integrated temperature sensor IC.   
 This repo contains all the schematic and layout files in the form of a KiCad project, they can be found within the `kicad` directory.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -25,6 +26,11 @@ Show them some love and consider having your next project fabricated by them:
 
 [https://www.pcbway.com/](https://www.pcbway.com/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Gerber Files
+Generated gerber and drill files can be found within the gerbers.7z archive.   
+These files were generated according to PCBWay's desired settings, thus, they can be used to order the boards from them without re-plotting.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # PCB Renders
