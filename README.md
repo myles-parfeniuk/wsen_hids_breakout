@@ -17,14 +17,28 @@ This repo contains all the schematic and layout files in the form of a KiCad pro
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # PCBWay Sponsorship
-Special thanks to PCBWay for sponsoring this project and providing access to their excellent service.  
+Special thanks to PCBWay for reaching out to sponsor this project and provide access to their excellent service.  
 PCBWay supports the DIY and open source community as well as students with sponsorships and contests frequently.   
 Show them some love and consider having your next project fabricated by them: 
 
 
 ![image](PCB_way_logo.png) 
 
-[https://www.pcbway.com/](https://www.pcbway.com/)
+Order [here](https://www.pcbway.com/) today.
+
+The boards manufactured by PCBWay had quality that exceeded my expectations.  
+The silk screen was less smudged and noticeably more detailed than other fab houses I've used before. All 5 of the boards in my order had no defects, both cosmetic, and functionally.   
+
+The shipping was also insanely quick; I live overseas from China, despite that, with standard shipping the boards were at my place within 2 weeks of uploading the gerbers.    
+Their website also had an easy to follow [guide](https://www.pcbway.com/blog/help_center/Generate_Gerber_file_from_Kicad.html) on the settings they require for generated gerbers, this made ordering a breeze. Their [capabilities page](https://www.pcbway.com/capabilities.html) was also easy to follow for setting the constraints within KiCad.  
+
+Overall, I was very satisfied with the result, I'll definitely be using them for any future projects. 
+
+
+
+![image](front_board_real.jpg) ![image](back_board_real.jpg) 
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
