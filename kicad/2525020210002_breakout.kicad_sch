@@ -678,6 +678,15 @@
     (uuid fd929eb1-6326-4e0d-9989-91591747ee8f)
   )
 
+  (text "I2C_OUT" (at 253.365 90.805 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2f95a0f1-609a-493a-b8b4-749019a92ae5)
+  )
+  (text "I2C_IN" (at 29.21 58.42 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6730f199-be17-4f9b-b411-4ffe36e07cfc)
+  )
+
   (label "I2C1_SDA" (at 59.69 66.04 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 3d0fa020-0609-4344-bdf7-5cd93df8bbb7)
@@ -751,7 +760,7 @@
     (property "Reference" "J1" (at 31.75 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "I2C_IN" (at 31.75 62.23 0)
+    (property "Value" "JST_PH_B4B-PH-K" (at 31.75 62.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" (at 31.75 68.58 0)
@@ -834,12 +843,12 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 256.54 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 183d443c-9286-488d-9219-d2fa2780a01c)
     (property "Reference" "J2" (at 259.08 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "I2C_OUT" (at 259.08 99.06 0)
+    (property "Value" "JST_PH_B4B-PH-K" (at 259.08 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" (at 256.54 96.52 0)
@@ -848,10 +857,10 @@
     (property "Datasheet" "~" (at 256.54 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5800f2c-ddb2-49c2-955e-426d4f417ce9))
-    (pin "2" (uuid 06927142-6416-4498-b90c-d42376984a93))
-    (pin "3" (uuid f9a58ac7-bb4b-421d-b2e4-1b0c67ada157))
-    (pin "4" (uuid 016b7262-b7cd-4201-8fa4-052a8ba1e2ca))
+    (pin "1" (uuid 042881bc-e9d5-400f-a767-90ed9fb66fc8))
+    (pin "2" (uuid e535da82-79b2-46e7-9321-4e0a6dddf8b4))
+    (pin "3" (uuid be241081-f2a8-4dc6-b81f-2fdb6e1bbc9c))
+    (pin "4" (uuid 68030e71-8582-47ad-916b-5b312abf4fbb))
     (instances
       (project "2525020210002_breakout"
         (path "/0ecd3e45-e5d3-482a-bb8f-58facd05184d"
@@ -892,7 +901,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 137.16 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e590834-356c-481d-860a-adcfe5de40e5)
     (property "Reference" "H4" (at 264.16 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1127,7 +1136,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 213.36 137.16 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 98c685f9-a4d3-49b2-8d12-98ee2a453d03)
     (property "Reference" "H2" (at 215.9 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1209,7 +1218,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 238.76 137.16 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c214ff7d-ed6f-409b-8207-25b5c90f9ddc)
     (property "Reference" "H3" (at 241.3 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1263,7 +1272,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 189.23 137.16 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c4bb8b8f-603a-45ce-b433-617b18c10e8e)
     (property "Reference" "H1" (at 191.77 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))

@@ -1,0 +1,9 @@
+#,Reference,Qty,Value,Footprint,Digikey Product #
+1,C1,1,100n,Capacitor_SMD:C_0603_1608Metric,311-1341-2-ND
+2,D1,1,LED,LED_SMD:LED_0603_1608Metric,732-4980-2-ND
+3,"J1, J2",2,JST_PH_B4B-PH-K,Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,455-B4B-PH-K-ND
+4,"J1, J2",2,JST_PH_B4B-PH-K,Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,455-1164-ND
+5,J3,1,Conn_01x04_Socket,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,n/a
+6,"R1, R2",2,10k,Resistor_SMD:R_0603_1608Metric,RMCF0603JT10K0TR-ND
+7,R3,1,4.7K,Resistor_SMD:R_0603_1608Metric,RMCF0603FT4K70TR-ND
+8,U1,1,2525020210002,BiltongBoardSensorExpansion:2525020210002,732-2525020210002TR-ND

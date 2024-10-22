@@ -54,8 +54,10 @@ These files were generated according to PCBWay's desired settings, thus, they ca
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Schematic and Layout
-![image](schematic.png)  
+<img src="kicad/2525020210002_breakout.svg" alt="Alt text" /> 
+
 ![image](layout.png) 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Operating Voltages
