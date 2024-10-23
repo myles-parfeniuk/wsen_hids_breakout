@@ -683,7 +683,7 @@
         (effects (font (size 1 1) (thickness 0.16)))
       (tstamp 21ea0d43-7c0c-4d62-bd89-fd2fcf440408)
     )
-    (fp_text value "LED" (at -2.423061 0.056569 -45) (layer "F.Fab")
+    (fp_text value "150060VS7500" (at -1.546249 1.499066) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 79b21740-5693-43b0-8f70-0fc433440fb1)
     )
