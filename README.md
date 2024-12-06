@@ -32,7 +32,11 @@ The silk screen was less smudged and noticeably more detailed than other fab hou
 The shipping was also insanely quick; I live overseas from China, despite that, with standard shipping the boards were at my place within 2 weeks of uploading the gerbers.    
 Their website also had an easy to follow [guide](https://www.pcbway.com/blog/help_center/Generate_Gerber_file_from_Kicad.html) on the settings they require for generated gerbers, this made ordering a breeze. Their [capabilities page](https://www.pcbway.com/capabilities.html) was also easy to follow for setting the constraints within KiCad.  
 
-Overall, I was very satisfied with the result, I'll definitely be using them for any future projects. 
+Overall, I was very satisfied with the result, I'll definitely be using them for any future projects.  
+
+**NOTE:**  
+
+The renders look different from the photos below, as these were for revision 1.0. The renders and KiCad files are for the newest revision, 1.1.
 
 
 
